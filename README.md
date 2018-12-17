@@ -1,0 +1,2 @@
+# solitaire
+Web Solitaire Game
